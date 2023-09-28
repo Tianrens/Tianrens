@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Tianrens' GitHub stats](https://github-readme-stats.vercel.app/api?username=Tianrens)](https://github.com/Tianrens)
+
 <!--
 **Tianrens/Tianrens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
